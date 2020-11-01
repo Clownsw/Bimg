@@ -6,4 +6,6 @@
 
 ###### git push origin master
 
+###### git config --global --unset http.proxy
+
 https://cdn.jsdelivr.net/gh/Clownsw/Bimg@master/img
